@@ -14,7 +14,7 @@
 PCB Front           |  PCB Back
 :-------------------------:|:-------------------------:|
 ![image](/assets/pcb_front.png)    |  ![image](/assets/pcb_back.png)
-> I had the most fun making schematic and PCB, tho I had to do both of this quite a lot of time 💀 I have routed the PCB like minimum 8 times if not more. Being a complete beginner and having no clue what you are doing is really fun, I am pretty sure I annoyed hell lotta people in the `#highway` and `#hackpad` channel lmao and special thanks to `@Ayo`, `@Domain` and `@Cyao` (on slack) and many other people who helped me through this journey and making this project possible.
+> I had the most fun making schematic and PCB, tho I had to do both of these quite a lot of time 💀 I have routed the PCB like minimum 8 times if not more. Being a complete beginner and having no clue what you are doing is really fun, I am pretty sure I annoyed hell lotta people in the `#highway` and `#hackpad` channel lmao and special thanks to `@Ayo`, `@Domain` and `@Cyao` (on slack) and many other people who helped me through this journey and making this project possible.
 
 
 ## Layers
