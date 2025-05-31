@@ -40,6 +40,14 @@ PCB Front           |  PCB Back
 
 ![image](/assets/over.JPG)
 
+## Closing and Thank You!
+> Being able to do something like this was REALLY fun, loved and enjoyed every second of it  
+> Learned some basics of Kicad  
+> Learned Shaper3d (moderately)  
+> Learned what a Keyboard matrix is and how it works  
+> Learned few keyboard mounting methods  
+> Maybe it was the friends we made throgh the journey  
+
 
 ## BOM
 > 11x Blank DSA Keycaps (Black if possible)  
