@@ -42,12 +42,11 @@ PCB Front           |  PCB Back
 
 
 ## BOM
-> 11x Blank DSA Keycaps (11x Black)  
+> 11x Blank DSA Keycaps (Black if possible)  
 > 11x Cherry MX Switches  
 > 12x 1N4148 diodes  
 > 1x XIAO RP2040  
-> 4x M3x16mm Bolt  
-> 4x M3 Nuts  
+> 4x M3x16mm Screw Bolt  
 > 4x M3 Heatset  
 > 1x Conn_01x04 (for the 0.91 OLED screen: check schematic for more clarity)  
 > 1x EC11 Rotary Encoder  
