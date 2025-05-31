@@ -16,6 +16,13 @@ A screenshot of your case and how it'll fit together
 ![image](/assets/layers.JPG)
 
 img of flexing the syvrpad
+![image](/assets/plate.JPG)
+![image](/assets/base.JPG)
+![image](/assets/case.JPG)
+![image](/assets/pcb_render.JPG)
+![image](/assets/side.JPG)
+![image](/assets/over.JPG)
+
 
 ## BOM
 > 11x Blank DSA Keycaps (11x Black)
