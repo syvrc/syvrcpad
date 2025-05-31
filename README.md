@@ -27,6 +27,7 @@ PCB Front           |  PCB Back
 ## Render of the PCB with all the components
 ![image](/assets/pcb_render.JPG)
 
+## Side View
 ![image](/assets/side.JPG)
 > Made the USB C port more accessible and ofcoure more visually appealing
 
