@@ -1,17 +1,21 @@
 ## syvrcpad
 > I made this because I wanted to try something new and to feel useful to myself 💀 and ofcourse to make something which I would use in my daily life to probably save some extra clicks and miliseconds.
 
+
 ![image](/assets/syvrcpad.JPG)
 > `syvrcpad` is a 4x3 (4 by 3) macropad with a `rotary encoder E11` and has `0.91 OLED Display`. The macropad uses `XIAO RP2040` as its micro controller.
 
+
 ## Schematic
 ![image](/assets/schematic.png)
+
 
 ## PCB
 PCB Front           |  PCB Back
 :-------------------------:|:-------------------------:|
 ![image](/assets/pcb_front.png)    |  ![image](/assets/pcb_back.png)
 > I had the most fun making schematic and PCB, tho I had to do both of this quite a lot of time 💀 I have routed the PCB like minimum 8 times if not more. Being a complete beginner and having no clue what you are doing is really fun, I am pretty sure I annoyed hell lotta people in the `#highway` and `#hackpad` channel lmao and special thanks to `@Ayo`, `@Domain` and `@Cyao` (on slack) and many other people who helped me through this journey and making this project possible.
+
 
 ## Layers
 ![image](/assets/layers.JPG)
@@ -24,12 +28,15 @@ PCB Front           |  PCB Back
 > Thickness of Plate: 01.5mm  
 > Thickness of Bottom: 10mm  
 
+
 ## Render of the PCB with all the components
 ![image](/assets/pcb_render.JPG)
+
 
 ## Side View
 ![image](/assets/side.JPG)
 > Made the USB C port more accessible and ofcoure more visually appealing
+
 
 ![image](/assets/over.JPG)
 
