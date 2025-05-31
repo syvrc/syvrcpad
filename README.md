@@ -49,8 +49,11 @@ PCB Front           |  PCB Back
 > 4x M3x16mm Bolt  
 > 4x M3 Nuts  
 > 4x M3 Heatset  
-> 1x Conn_01x04 (for the 0.91 OLED screen)  
+> 1x Conn_01x04 (for the 0.91 OLED screen: check schematic for more clarity)  
 > 1x EC11 Rotary Encoder  
 > 1x Rotary Encoder Knob  
 > 1x PCB  
 > 1x Case (I would like the TOP to be printed in Red and BOTTOM in Black, if not available: Message me @syvr on Slack)
+
+---
+> ~~hit the like button~~ star the repo if you like my work!! 🚶‍♂️
