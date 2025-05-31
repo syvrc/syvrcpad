@@ -1,6 +1,7 @@
 ## syvrcpad
 
 overall hackpad img
+![syvrcpad](/assets/syvrcpad.PNG)
 
 screenshot of your schematic
 
