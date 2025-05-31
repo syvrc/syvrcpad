@@ -24,8 +24,12 @@ PCB Front           |  PCB Back
 > Thickness of Plate: 01.5mm  
 > Thickness of Bottom: 10mm  
 
+## Render of the PCB with all the components
 ![image](/assets/pcb_render.JPG)
+
 ![image](/assets/side.JPG)
+> Made the USB C port more accessible and ofcoure more visually appealing
+
 ![image](/assets/over.JPG)
 
 
