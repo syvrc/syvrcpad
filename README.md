@@ -25,7 +25,7 @@ PCB Front           |  PCB Back
 ![image](/assets/plate.JPG)
 ![image](/assets/base.JPG)
 ![image](/assets/case.JPG)
-> Thickness of Plate: 01.5mm  
+> Thickness of Plate: 1.5mm  
 > Thickness of Bottom: 10mm  
 
 
