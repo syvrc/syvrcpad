@@ -6,10 +6,9 @@
 > `syvrcpad` is a 4x3 (4 by 3) macropad with a `rotary encoder E11` and has `0.91 OLED Display`. The macropad uses `XIAO RP2040` as its micro controller.
 
 ## build
-![image](/assets/build1.jpeg)
 > well um yeah 💀, this is not soldered btw, i jus added switches and the xiao to it cuz it looks cool sybau and ooh also i made use of an old charger cable of my phone  
-
-> i originally did not have a soldering iron/kit but then i did `#solder` and got one, turns out the whole soldering iron of the kit is messed up which took me `5 diodes`, `3 pcbs` and `the whole solder wire of the kit` to figure out. and i crashed out bad, anw now idts i will be able to make ts so now im working on a keeb called [syvrcboard v0](https://github.com/syvrc/syvrcboard-v0) with an integrated macropad and i hope i would be able to make that!!!!!!!!!!!23erfcwherfirufyg
+![image](/assets/build1.jpeg)
+> i originally did not have a soldering iron/kit but then i did `#solder` and got one, turns out the whole soldering iron of the kit is messed up which took me `5 diodes`, `3 pcbs` and `the whole solder wire of the kit` to figure out. and i crashed out bad, anw now idts i will be able to make ts so now im working on a keeb called [syvrcboard v0](https://github.com/syvrc/syvrcboard-v0) with an integrated macropad and i hope i would be able to make that!!!!!!!!!!!23erfcwherfirufyg  
 
 ## Schematic
 ![image](/assets/schematic.png)
