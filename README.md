@@ -5,6 +5,8 @@
 ![image](/assets/syvrcpad.JPG)
 > `syvrcpad` is a 4x3 (4 by 3) macropad with a `rotary encoder E11` and has `0.91 OLED Display`. The macropad uses `XIAO RP2040` as its micro controller.
 
+## build
+![image](/assets/present1.jpeg)
 
 ## Schematic
 ![image](/assets/schematic.png)
